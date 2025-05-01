@@ -30,7 +30,7 @@
       <button class="btn btn-primary d-grid w-100">Daftar</button>
     </form>
     <p class="text-center">
-      <span>Sudah memiliki akun?</span><a href="login.php"><span> Masuk</span></a>
+      <span> Sudah memiliki akun? </span><a href="login.php"><span> Masuk </span></a>
     </p>
   </div>
 </div>
